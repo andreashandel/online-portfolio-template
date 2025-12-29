@@ -1,5 +1,5 @@
 ---
-title: "R Coding Exercise"
+title: "Future Exercise"
 ---
 
-Placeholder file for the future R coding exercise.
+Placeholder file for a future exercise.

@@ -2,4 +2,4 @@ This folder and subfolders are part of a template project setup containing files
 
 The full template can be found [here](https://github.com/ahgroup/dataanalysis-template).
 
-Note that is is generally NOT a good idea to have something like an analysis project inside a bigger project, such as a portfolio website. We are doing this here for simplicity. But in general, it would make more sense for this folder and subfolders to be its own R Project and GitHub repository.
+Note that is is generally NOT a good idea to have something like an analysis project inside another project, such as a portfolio website. We are doing this here for simplicity. But normally, it would make more sense for this folder and subfolders to be its own project and GitHub repository.
