@@ -11,9 +11,7 @@ website:
       - text: "Projects"
         menu:
           - text: "Starter Analysis Exercise"
-            file: starter-analysis-exercise/products/report/starter-analysis-report.qmd
-          - text: "Future Exercise"
-            file: future-exercise/future-exercise.qmd
+            file: starter-analysis-exercise/starter-analysis-exercise.qmd
     right:
       - icon: github 
         href: URL-TO-THIS-REPOSITORY-HERE        
